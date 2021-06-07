@@ -1,0 +1,13 @@
+Fold 1 accuracy: 0.4998643696308136
+Fold 2 accuracy: 0.49981650710105896
+Fold 3 accuracy: 0.4998531937599182
+Fold 4 accuracy: 0.4998185932636261
+Fold 5 accuracy: 0.5001103281974792
+
+Training finished
+
+5-Fold Validation Accuracy:
+49.99% (+/- 0.01%)
+--------------------------------
+Test set metrics
+Evaluation: loss = 0.253250 custom_accuracy= 49.99%
